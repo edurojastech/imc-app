@@ -1,2 +1,2 @@
-# 12_projeto_app_IMC
+# Projeto_app_IMC
  Projeto de estudo - App IMC
