@@ -1,6 +1,6 @@
 # IMC App
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## Descrição
 
