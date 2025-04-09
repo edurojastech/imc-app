@@ -40,3 +40,16 @@ O **IMC App** é uma aplicação web simples desenvolvida com o objetivo de calc
 
 📷 Demonstração
 ![image](https://github.com/user-attachments/assets/4cc1ce67-7a95-4aca-a92a-ba926053882a)
+
+🤝 Contribuições
+Contribuições são sempre bem-vindas!
+Sinta-se à vontade para abrir uma issue ou enviar um pull request com sugestões, melhorias ou correções.
+
+📄 Licença
+Este projeto está licenciado sob a Licença MIT.
+Confira o arquivo LICENSE para mais detalhes.
+
+👨‍💻 Autor
+Desenvolvido com 💻 por Eduardo Rojas
+
+
